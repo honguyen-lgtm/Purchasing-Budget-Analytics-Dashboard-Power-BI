@@ -102,7 +102,8 @@ Overall spending exceeded the allocated budget by approximately 4.75%.
 
 The top five vendors accounted for 67.69% of purchasing spend, highlighting vendor spending concentration.
 
-![Purchasing and Budget Dashboard](screenshots/main-dashboard.png)
+<img width="658" height="371" alt="image" src="https://github.com/user-attachments/assets/0cb0139f-0f21-4616-b0f4-fd40337914a3" />
+
 
 ### 2. Vendor Details
 
@@ -128,7 +129,7 @@ This page supports questions such as:
 - Which purchasing categories contribute to vendor spending?
 - When were purchases made, and what were their amounts?
 
-![Vendor Details Dashboard](screenshots/vendor-details.png)
+<img width="641" height="374" alt="image" src="https://github.com/user-attachments/assets/73fe2482-782e-4a20-8f31-8c9a667546ee" />
 
 ### 3. Payment Performance
 
@@ -162,7 +163,8 @@ The analysis showed that 68.29% of recorded payments took more than 30 days to p
 
 These findings suggest an opportunity to investigate payment processing delays and evaluate whether improvements to internal workflows could reduce processing times.
 
-![Payment Performance Dashboard](screenshots/payment-performance.png)
+<img width="724" height="391" alt="image" src="https://github.com/user-attachments/assets/da09c8e4-bb6e-4057-b6f7-87707d400007" />
+
 
 ## DAX Measures
 
