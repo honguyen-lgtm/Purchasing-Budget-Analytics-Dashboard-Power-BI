@@ -63,9 +63,8 @@ This approach supported interactive filtering, more organized data analysis, and
 
 *Note: The purchase-to-payment relationship should be validated against the data's actual payment cardinality before treating it as a finalized production model.*
 
-### Data Model Screenshot
+<img width="568" height="384" alt="image" src="https://github.com/user-attachments/assets/aa00da56-0527-4f7f-a9e0-038565706552" />
 
-![Power BI Data Model](screenshots/data-model.png)
 
 ## Dashboard Pages
 
